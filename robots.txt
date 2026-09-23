@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--dlqr72ekzv5xi.com/sitemap.xml
